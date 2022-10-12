@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Sohail (@sohail-313)
+- 👋 Hi, I’m Mohammed Sohail
 - 👀 I’m interested in MERN Stack Devopment, Mobile App Development, BlockChain Technologies, Web 3.0,  Data Science, and new technologies
 - 🌱 I’m currently learning "Data Structures and Algoritms" & "MERN Stack Devopment "
 - 📫 website : sohail313portfolio.netlify.app
