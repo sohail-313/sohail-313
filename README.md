@@ -4,10 +4,11 @@ I'm Mohammed Sohail, a passionate software engineer based in Hyderabad, India. �
 
 ## What I'm into:
 
-- 🤝 Always ready to seek mentorship and guidance.
+
 - 🚀 I'm eager to explore new technologies, and I'm currently delving into web3 and blockchain.
 - 👥 I'm open to collaboration! If you have a project or idea, let's connect and build something awesome together.
 - 🌱 I have a strong desire to learn from others and contribute to exciting projects.
+- 🤝 Always ready to seek mentorship and guidance.
 
 
 ## Let's Connect 🌐
