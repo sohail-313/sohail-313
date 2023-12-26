@@ -1,4 +1,4 @@
-I love diving into the world of web development.
+love diving into the world of web development.
 
 ## What I'm into:
 
