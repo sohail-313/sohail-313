@@ -1,4 +1,6 @@
-the world of web development.
+# Hi there! 👋
+
+I'm Mohammed Sohail, a passionate software engineer based in Hyderabad, India. 👨‍💻 Currently, I'm working as a frontend engineer, and I love diving into the world of web development.
 
 ## What I'm into:
 
@@ -14,7 +16,10 @@ the world of web development.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sohail-313/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-orange)](mailto:mohammedisohail313@gmail.com)
 
-Let's code and learn together! 
+Let's code and learn together! 🚀
 
 
-
+<!---
+sohail-313/sohail-313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
