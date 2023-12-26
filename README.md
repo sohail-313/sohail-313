@@ -19,7 +19,4 @@ I'm Mohammed Sohail, a passionate software engineer based in Hyderabad, India. �
 Let's code and learn together! 🚀
 
 
-<!---
-sohail-313/sohail-313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
