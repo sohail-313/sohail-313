@@ -1,5 +1,4 @@
-
- Mohammed Sohail, a passionate software engineer based in Hyderabad, India. 👨‍💻 Currently, I'm working as a frontend engineer, and I love diving into the world of web development.
+Sohail, a passionate software engineer based in Hyderabad, India. 👨‍💻 Currently, I'm working as a frontend engineer, and I love diving into the world of web development.
 
 ## What I'm into:
 
