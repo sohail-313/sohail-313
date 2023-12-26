@@ -1,4 +1,4 @@
- as a frontend engineer, and I love diving into the world of web development.
+ a frontend engineer, and I love diving into the world of web development.
 
 ## What I'm into:
 
