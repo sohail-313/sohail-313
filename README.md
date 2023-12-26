@@ -11,9 +11,6 @@ I'm Mohammed Sohail, a passionate software engineer based in Hyderabad, India. �
 
 ## Let's Connect 🌐
 
-Feel free to reach out for collaboration, mentorship, or just a friendly chat! 📬
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sohail-313/)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-orange)](mailto:mohammedisohail313@gmail.com)
 
