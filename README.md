@@ -1,4 +1,4 @@
-into the world of web development.
+the world of web development.
 
 ## What I'm into:
 
